@@ -18,7 +18,8 @@ const translations = {
         radar_desc: "Generates a localhost:5555 link. Open it in your phone's browser, ideal for single-monitor gaming, to see enemies in real time. When launched, a simple radar window opens for those with two monitors.",
         settings_title: "Settings",
         settings_desc: "If the arrows don't work, press Win + R, enter %AppData%\\AimRadar and configure settings.json.",
-        insert_key: "The Insert key in the game changes the AimLock button."
+        insert_key: "The Insert key in the game changes the AimLock button.",
+        demo_title: "See It In Action"
     },
     ru: {
         join_telegram: "В Телеграм",
@@ -39,7 +40,8 @@ const translations = {
         radar_desc: "Генерирует ссылку localhost:5555. Откройте ее на телефоне — идеально для игры с одним монитором. При запуске открывается окно радара для тех, у кого два монитора.",
         settings_title: "Настройки",
         settings_desc: "Если стрелки не работают, нажмите Win + R, введите %AppData%\\AimRadar и настройте settings.json.",
-        insert_key: "Клавиша Insert в игре меняет кнопку AimLock."
+        insert_key: "Клавиша Insert в игре меняет кнопку AimLock.",
+        demo_title: "Демонстрация Работы"
     },
     ua: {
         join_telegram: "В Телеграм",
@@ -60,7 +62,8 @@ const translations = {
         radar_desc: "Генерує посилання localhost:5555. Відкрийте його на телефоні — ідеально для гри з одним монітором. При запуску відкривається вікно радару для тих, у кого два монітори.",
         settings_title: "Налаштування",
         settings_desc: "Якщо стрілки не працюють, натисніть Win + R, введіть %AppData%\\AimRadar та налаштуйте settings.json.",
-        insert_key: "Клавіша Insert у грі змінює кнопку AimLock."
+        insert_key: "Клавіша Insert у грі змінює кнопку AimLock.",
+        demo_title: "Демонстрація Роботи"
     },
     tr: {
         join_telegram: "Telegram'a Katıl",
@@ -81,7 +84,8 @@ const translations = {
         radar_desc: "localhost:5555 bağlantısı oluşturur. Telefonunuzun tarayıcısında açın, tek monitörlü oyunlar için idealdir. Başlatıldığında, iki monitörü olanlar için basit bir radar penceresi açılır.",
         settings_title: "Ayarlar",
         settings_desc: "Oklar çalışmıyorsa, Win + R tuşlarına basın, %AppData%\\AimRadar yazın ve settings.json dosyasını yapılandırın.",
-        insert_key: "Oyundaki Insert tuşu AimLock düğmesini değiştirir."
+        insert_key: "Oyundaki Insert tuşu AimLock düğmesini değiştirir.",
+        demo_title: "Çalışma Demostrasyonu"
     }
 };
 

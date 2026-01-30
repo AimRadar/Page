@@ -510,3 +510,9 @@ main { position: relative; z-index: 1; }
 .payment-info p { margin: 0.5rem 0; color: var(--text-dim); }
 .payment-info .warning { color: #ffcc00; }
 .payment-info .recommended { color: var(--secondary-color); font-weight: 500; }
+
+/* Video Section */
+#video-demo { padding: 6rem 0; text-align: center; }
+.video-container { max-width: 900px; margin: 0 auto; position: relative; border-radius: 12px; overflow: hidden; box-shadow: 0 0 50px rgba(57, 255, 20, 0.1); border: 1px solid rgba(57, 255, 20, 0.3); }
+.video-container video { width: 100%; display: block; border-radius: 12px; }
+.video-glow { position: absolute; top: -10px; left: -10px; right: -10px; bottom: -10px; z-index: -1; background: radial-gradient(circle, rgba(57, 255, 20, 0.2) 0%, transparent 60%); filter: blur(20px); }
